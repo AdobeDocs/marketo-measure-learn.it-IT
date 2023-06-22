@@ -1,22 +1,22 @@
 ---
-title: Perché [!DNL Marketo Measure] per il marketing degli eventi
-description: Questa lezione riepiloga [!DNL Marketo Measure]Funzioni chiave e valore per i team di marketing degli eventi.
+title: Perché [!DNL Marketo Measure] per Eventi Marketing
+description: Questa lezione riassume [!DNL Marketo Measure]Funzioni chiave e valore per i team di marketing di Events.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-01-06T00:00:00Z
-kt: 11674
+jira: KT-11674
 thumbnail: 347178.jpeg
 exl-id: 713014ed-257c-44f3-a406-bc40e953fe88
-source-git-commit: 772ca501ddfe02d4c9f06580989d97d10d8c3334
+source-git-commit: b60003c6fa73401ca980a46ae47be00a1bb457ae
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%
 
 ---
 
-# Perché [!DNL Marketo Measure] per il marketing degli eventi
+# Perché [!DNL Marketo Measure] per Eventi Marketing
 
-Questa lezione riepiloga [!DNL Marketo Measure]Funzioni chiave e valore per i team di marketing degli eventi.
+Questa lezione riassume [!DNL Marketo Measure]Funzioni chiave e valore per i team di marketing di Events.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347178/?quality=12&learn=on)
