@@ -5,9 +5,9 @@ jira: KT-11229
 thumbnail: 347192.jpeg
 exl-id: 76e40127-e293-4b94-a071-ff48465c9b11
 feature: Attribution
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Questa lezione tratta [!UICONTROL Activities Attribution]. Questa funzione consente di creare punti di contatto dall’oggetto Attività in Salesforce tramite i record Attività o Evento.
 
->[!VIDEO](https://video.tv.adobe.com/v/347192/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347192/?learn=on){transcript=true}

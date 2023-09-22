@@ -9,9 +9,9 @@ jira: KT-11682
 thumbnail: 347240.jpeg
 exl-id: ce4517f4-1e4c-40d9-b0eb-4b70419a4e19
 feature: Attribution
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Questa lezione definisce i modelli di attribuzione e spiega i diversi modelli inclusi in [!DNL Marketo Measure], e quando utilizzarli.  Sono descritti i modelli standard basati su regole, i modelli personalizzati e i consigli AI/ML.
 
->[!VIDEO](https://video.tv.adobe.com/v/347240/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347240/?learn=on){transcript=true}
