@@ -2,10 +2,11 @@
 user-guide-title: "[!DNL Marketo Measure] Tutorial"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorial"
 user-guide-description: Scopri come ottenere il massimo da [!DNL Adobe Marketo Measure] (in precedenza [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] fondamentali e definizioni.
-source-git-commit: 544bb31ce388b2952c98bb34622b1a6bbeca5d99
+auto-video-transcripts: true
+source-git-commit: 88f70953a105ff0feddda60bed11449a219c824b
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -84,7 +85,7 @@ ht-degree: 2%
       + [Strumenti di assegnazione tag automatica per il parametro UTM](/help/definitions/utm-parameters/utm-parameter-auto-tagging-tools.md)
       + [Assegnazione tag UTM](/help/definitions/utm-parameters/utm-tagging.md)
    + Marketing basato su account{#account-based-marketing}
-      + [[!UICONTROL Account Based Marketing] panoramica](/help/definitions/account-based-marketing/abm-overview.md)
+      + [Panoramica di [!UICONTROL Account Based Marketing]](/help/definitions/account-based-marketing/abm-overview.md)
       + [[!UICONTROL Accounts by Engagement Score]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
       + [[!UICONTROL Accounts with Leads and Contacts] rapporto](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
       + [[!UICONTROL Touchpoints per Account] rapporto](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
