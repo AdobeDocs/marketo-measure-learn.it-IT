@@ -3,10 +3,10 @@ user-guide-title: "[!DNL Marketo Measure] Tutorial"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorial"
 user-guide-description: Scopri come ottenere il massimo da  [!DNL Adobe Marketo Measure]  (in precedenza  [!DNL Bizible]). Guarda i tutorial su installazione, onboarding, nozioni di base e definizioni.
 auto-video-transcripts: true
-source-git-commit: 2ba22dad2b35ddcc106c0afa89253669b9ad5291
+source-git-commit: bde41ed650e57bf84955d8d895e44699d9b48442
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 7%
+source-wordcount: '325'
+ht-degree: 8%
 
 ---
 
@@ -72,6 +72,8 @@ ht-degree: 7%
    + [Determinare il canale in esecuzione (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [Determinare il canale in esecuzione (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [Individuare Il Reporting Funnel (Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
++ [!DNL Marketo Measure] Chat live {#live-chat}
+   + [Attribuzione e metriche di marketing](/help/_assets/marketing attribution and metrics.md)
 + Definizioni{#definitions}
    + Punti di contatto{#touchpoints}
       + [Cos’è un punto di contatto?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
