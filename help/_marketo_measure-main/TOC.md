@@ -1,12 +1,12 @@
 ---
-user-guide-title: "[!DNL Marketo Measure] Tutorial"
-breadcrumb-title: "[!DNL Marketo Measure] Tutorial"
-user-guide-description: Scopri come ottenere il massimo da  [!DNL Adobe Marketo Measure]  (in precedenza  [!DNL Bizible]). Guarda i tutorial su installazione, onboarding, nozioni di base e definizioni.
+user-guide-title: "[!DNL Marketo Measure] Tutorials"
+breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
+user-guide-description: Scopri come ottenere il massimo da [!DNL Adobe Marketo Measure] (in precedenza [!DNL Bizible]). Guarda i tutorial su installazione, onboarding, nozioni di base e definizioni.
 auto-video-transcripts: true
-source-git-commit: bde41ed650e57bf84955d8d895e44699d9b48442
+source-git-commit: beed01aaeb638853c082ecedb2c5b31e5d06fbe4
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 8%
+source-wordcount: '319'
+ht-degree: 3%
 
 ---
 
@@ -72,8 +72,6 @@ ht-degree: 8%
    + [Determinare il canale in esecuzione (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [Determinare il canale in esecuzione (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [Individuare Il Reporting Funnel (Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
-+ [!DNL Marketo Measure] Chat live {#live-chat}
-   + [Attribuzione e metriche di marketing](/help/_assets/marketing attribution and metrics.md)
 + Definizioni{#definitions}
    + Punti di contatto{#touchpoints}
       + [Cos’è un punto di contatto?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
@@ -112,3 +110,5 @@ ht-degree: 8%
    + Boomerang Stage{#boomerang-stage}
       + [Introduzione alle fasi di boomerang](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [Impostare le fasi di boomerang](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
++ L&#39;evangelista {#evangelist}
+   + [Attribuzione e metriche di marketing](/help/evangelist-talks/attribution-and-metrics.md)
