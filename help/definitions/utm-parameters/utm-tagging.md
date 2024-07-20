@@ -1,6 +1,6 @@
 ---
 title: Assegnazione tag UTM
-description: Guarda un tutorial su cosa è un UTM e come funzionano con [!DNL Marketo Measure].
+description: Guarda un'esercitazione su cos'è un UTM e come funzionano con  [!DNL Marketo Measure].
 jira: KT-11234
 thumbnail: 347204.jpeg
 exl-id: 447ec263-6585-409f-8300-d92fcc6289d6
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Assegnazione tag UTM
 
-Guarda un tutorial su cosa è un UTM e come funzionano con [!DNL Marketo Measure].
+Guarda un&#39;esercitazione su ciò che è un UTM e sul suo funzionamento con [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347204/?learn=on){transcript=true}

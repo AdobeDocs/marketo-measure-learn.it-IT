@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Marketo Measure] Persona"
-description: Scopri di più su [!DNL Marketo Measure] Oggetto Person e modo in cui crea una ricerca tra gli oggetti Lead e Contact.
+title: "[!DNL Marketo Measure] persona"
+description: Scopri l'oggetto  [!DNL Marketo Measure] Person e come crea una ricerca tra gli oggetti Lead e Contact.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: CRM Objects
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Measure] Persona
+# [!DNL Marketo Measure] persona
 
-Scopri di più su [!DNL Marketo Measure] Oggetto Person e modo in cui crea una ricerca tra gli oggetti Lead e Contact.
+Scopri l&#39;oggetto Persona [!DNL Marketo Measure] e come crea una ricerca tra gli oggetti Lead e Contact.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347230/?learn=on){transcript=true}

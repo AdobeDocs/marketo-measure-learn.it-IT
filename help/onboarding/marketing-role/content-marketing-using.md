@@ -1,6 +1,6 @@
 ---
-title: Utilizzo di [!DNL Marketo Measure] come addetto al marketing dei contenuti
-description: Questa lezione fornisce una breve dimostrazione di come i professionisti del marketing dei contenuti potrebbero utilizzare [!DNL Marketo Measure] nel loro ruolo.
+title: Utilizzo di  [!DNL Marketo Measure]  come addetto al marketing dei contenuti
+description: Questa lezione fornisce una rapida dimostrazione di come i professionisti del marketing dei contenuti potrebbero utilizzare  [!DNL Marketo Measure]  nel loro ruolo.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Utilizzo di [!DNL Marketo Measure] come addetto al marketing dei contenuti
 
-Questa lezione fornisce una breve dimostrazione di come i professionisti del marketing dei contenuti potrebbero utilizzare [!DNL Marketo Measure] nel loro ruolo.
+Questa lezione fornisce una breve dimostrazione di come gli addetti al marketing dei contenuti potrebbero utilizzare [!DNL Marketo Measure] nel loro ruolo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347168/?learn=on){transcript=true}

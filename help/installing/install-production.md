@@ -1,6 +1,6 @@
 ---
 title: Installazione (istanza di produzione)
-description: Scopri come installare un’istanza di produzione di [!DNL Marketo Measure].
+description: Scopri come installare un'istanza di produzione di  [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,11 +12,11 @@ feature: Installation
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '22'
-ht-degree: 0%
+ht-degree: 31%
 
 ---
 
-# [!DNL Marketo Measure] installazione (istanza di produzione)
+# Installazione di [!DNL Marketo Measure] (istanza di produzione)
 
 Scopri come installare un’istanza di produzione di [!DNL Marketo Measure].
 

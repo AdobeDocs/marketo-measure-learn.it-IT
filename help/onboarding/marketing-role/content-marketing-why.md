@@ -1,6 +1,6 @@
 ---
 title: Perché [!DNL Marketo Measure] per il marketing dei contenuti
-description: Questa lezione riassume [!DNL Marketo Measure]Funzioni chiave di e valore aggiunto per i team di Content Marketing.
+description: In questa lezione vengono riepilogate le funzionalità chiave e il valore di  [!DNL Marketo Measure] per i team di Content Marketing.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Perché [!DNL Marketo Measure] per il marketing dei contenuti
 
-Questa lezione riassume [!DNL Marketo Measure]Funzioni chiave di e valore aggiunto per i team di Content Marketing.
+In questa lezione vengono riepilogate le funzionalità chiave e il valore di [!DNL Marketo Measure] per i team di Content Marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347176/?learn=on){transcript=true}

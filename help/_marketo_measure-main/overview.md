@@ -1,7 +1,7 @@
 ---
 title: Panoramica di [!DNL Marketo Measure] Tutorials
 recommendations: noDisplay, noCatalog
-description: Ottenere il massimo da [!DNL Adobe Marketo Measure] (precedentemente noto come [!DNL Bizible]), l'app di attribuzione marketing B2B leader di settore.
+description: Ottieni il massimo da  [!DNL Adobe Marketo Measure]  (precedentemente noto come  [!DNL Bizible]), l'app di attribuzione marketing B2B leader del settore.
 doc-type: overview-page
 exl-id: 83dae370-8ffd-4715-b72e-4e232f1bf31d
 source-git-commit: ed3135104704d0742337f94c9d6a1c035f0449fe
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Tutorial su [!DNL Marketo Measure]
 
-Ottenere il massimo da [!DNL Adobe Marketo Measure] (precedentemente noto come [!DNL Bizible]), l&#39;app di attribuzione marketing B2B leader di settore.
+Ottieni il massimo da [!DNL Adobe Marketo Measure] (precedentemente noto come [!DNL Bizible]), l&#39;app di attribuzione marketing B2B leader del settore.
 
 La presente guida utente contiene video e tutorial sulle funzioni e caratteristiche di Marketo Measure.
 
@@ -26,5 +26,5 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 
 ## Experience League di eventi live
 
-* **[Nuove dashboard di Marketo Measure Discover](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
-  *Scopri le nuove dashboard di Discover, completamente rinnovate.*
+* **[Nuovi dashboard di individuazione di Marketo Measure](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
+  *Scopri i nuovi dashboard di individuazione completamente rinnovati.*

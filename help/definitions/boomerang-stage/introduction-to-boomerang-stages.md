@@ -1,6 +1,6 @@
 ---
 title: Introduzione alle fasi di Boomerang
-description: Guarda la prima lezione della serie di corsi Boomerang. Scopri come impostare le fasi Boomerang in [!DNL Marketo Measure].
+description: Guarda la prima lezione della serie di corsi Boomerang. Scopri come impostare le fasi di boomerang in [!DNL Marketo Measure].
 jira: KT-11242
 thumbnail: 347229.jpeg
 exl-id: f8548370-e810-4ce6-8088-1d4b433e2c6e
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Introduzione a [!UICONTROL Boomerang] Fasi
+# Introduzione a [!UICONTROL Boomerang] fasi
 
-Guarda la prima lezione della serie di corsi Boomerang. Scopri come impostare [!UICONTROL Boomerang Stages] in [!DNL Marketo Measure].
+Guarda la prima lezione della serie di corsi Boomerang. Scopri come configurare [!UICONTROL Boomerang Stages] in [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347229/?learn=on){transcript=true}

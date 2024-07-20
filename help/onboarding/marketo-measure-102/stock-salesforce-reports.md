@@ -1,6 +1,6 @@
 ---
 title: Rapporti Stock Salesforce
-description: Questa lezione tratta i report CRM standard e predefiniti di Salesforce e gli oggetti di dati inclusi in [!DNL Marketo Measure].
+description: Questa lezione tratta i report CRM standard e predefiniti di Salesforce e gli oggetti dati inclusi in  [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Rapporti Stock Salesforce
 
-Questa lezione tratta i report CRM standard e predefiniti di Salesforce e gli oggetti di dati inclusi in [!DNL Marketo Measure].
+Questa lezione tratta i report CRM standard e predefiniti di Salesforce e gli oggetti dati inclusi in [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347239/?learn=on){transcript=true}

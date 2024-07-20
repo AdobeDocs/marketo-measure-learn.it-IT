@@ -1,6 +1,6 @@
 ---
-title: Perché [!DNL Marketo Measure] for Demand Gen/Paid Media
-description: Questa lezione riassume [!DNL Marketo Measure]Funzioni chiave e valore per i team di Demand Gen e Paid Media.
+title: Perché [!DNL Marketo Measure] per i media a richiesta Gen/a pagamento
+description: Questa lezione riepiloga le funzionalità chiave e il valore di  [!DNL Marketo Measure] per i team di Demand Gen e Paid Media.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Perché [!DNL Marketo Measure] for Demand Gen/Paid Media
+# Perché [!DNL Marketo Measure] per i media a richiesta Gen/a pagamento
 
-Questa lezione riassume [!DNL Marketo Measure]Funzioni chiave e valore per i team di Demand Gen e Paid Media.
+Questa lezione riepiloga le funzionalità chiave e il valore di [!DNL Marketo Measure] per i team di Demand Gen e Paid Media.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347169/?learn=on){transcript=true}

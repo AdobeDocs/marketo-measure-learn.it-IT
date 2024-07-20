@@ -1,6 +1,6 @@
 ---
 title: Oggetti CRM
-description: Osserva un raggruppamento della relazione tra oggetti CRM standard e [!DNL Marketo Measure] oggetti e campi personalizzati.
+description: Osserva un raggruppamento della relazione tra gli oggetti CRM standard e  [!DNL Marketo Measure] gli oggetti e i campi personalizzati.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Oggetti CRM
 
-Osserva un raggruppamento della relazione tra oggetti CRM standard e [!DNL Marketo Measure] oggetti e campi personalizzati.
+Osserva un raggruppamento della relazione tra gli oggetti CRM standard e [!DNL Marketo Measure] oggetti e campi personalizzati.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347218/?learn=on){transcript=true}

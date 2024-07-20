@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # [!UICONTROL Accounts by Engagement Score]
 
-Panoramica di alto livello della [!UICONTROL Account by Engagement Score].  Questa esercitazione illustra quali metriche entrano in questo punteggio e il rapporto ad esso associato.
+Panoramica di alto livello di [!UICONTROL Account by Engagement Score].  Questa esercitazione illustra quali metriche entrano in questo punteggio e il rapporto ad esso associato.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347248/?learn=on){transcript=true}

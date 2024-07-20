@@ -1,6 +1,6 @@
 ---
 title: Mappatura dei canali offline
-description: Questa lezione illustra la mappatura dei canali offline su [!DNL Marketo Measure] con l’oggetto Salesforce Campaign e il campo Tipi di campagna.
+description: Questa lezione illustra la mappatura dei canali offline su  [!DNL Marketo Measure]  con l'oggetto Salesforce Campaign e il campo Tipi di campagna.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Mappatura dei canali offline
 
-Questa lezione illustra la mappatura dei canali offline su [!DNL Marketo Measure] con l’oggetto Salesforce Campaign e il campo Tipi di campagna.
+Questa lezione descrive la mappatura dei canali offline su [!DNL Marketo Measure] con l&#39;oggetto Salesforce Campaign e il campo Tipi di campagna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347249/?learn=on){transcript=true}

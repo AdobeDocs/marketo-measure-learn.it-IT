@@ -1,6 +1,6 @@
 ---
-title: Panoramica di [!DNL Marketo Measure] tassonomia
-description: Guarda una panoramica di come [!DNL Marketo Measure] raccoglie ed elabora i dati utilizzando vari input per fornire i dati di attribuzione.
+title: Panoramica della tassonomia  [!DNL Marketo Measure]
+description: Guarda una panoramica su come [!DNL Marketo Measure] raccoglie ed elabora i dati utilizzando vari input per fornire i dati di attribuzione.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Panoramica di [!DNL Marketo Measure] tassonomia
+# Panoramica della tassonomia [!DNL Marketo Measure]
 
-Ottieni una panoramica di come [!DNL Marketo Measure] raccoglie ed elabora i dati utilizzando vari input per fornire i dati di attribuzione.
+Ottieni una panoramica del modo in cui [!DNL Marketo Measure] raccoglie ed elabora i dati utilizzando vari input per fornire i dati di attribuzione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347177/?learn=on){transcript=true}

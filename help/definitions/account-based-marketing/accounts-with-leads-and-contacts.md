@@ -1,6 +1,6 @@
 ---
 title: Rapporto Conti con lead e contatti
-description: Scopri di più su [!UICONTROL Account and Leads Contacts] insieme alle informazioni relative a entrambi e alla modalità di connessione di tali oggetti.
+description: Scopri il report [!UICONTROL Account and Leads Contacts] insieme alle informazioni per entrambi e come connette tali oggetti.
 jira: KT-11239
 thumbnail: 347220.jpeg
 exl-id: dc27ad9a-dd09-4662-8dfd-cb237d66c893
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Account and Leads Contacts] rapporto
+# Report [!UICONTROL Account and Leads Contacts]
 
-Questo tutorial illustra [!UICONTROL Account and Leads Contacts] insieme alle informazioni relative a entrambi e alla modalità di connessione di tali oggetti.
+Questa esercitazione illustra il report [!UICONTROL Account and Leads Contacts] insieme alle informazioni per entrambi e il modo in cui connette tali oggetti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347220/?learn=on){transcript=true}

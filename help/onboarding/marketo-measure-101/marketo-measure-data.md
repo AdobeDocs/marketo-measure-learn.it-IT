@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Marketo Measure] Dati"
-description: Questa lezione fornisce una panoramica di [!DNL Marketo Measure] origini dati che includono [!DNL Marketo Measure] JavaScript, integrazioni API, parametri UTM, dati CRM e dati immessi manualmente.
+title: "[!DNL Marketo Measure] dati"
+description: In questa lezione viene fornita una panoramica delle  [!DNL Marketo Measure] origini dati che includono  [!DNL Marketo Measure] JavaScript, integrazioni API, parametri UTM, dati CRM e dati immessi manualmente.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Reporting
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Measure] Dati
+# Dati [!DNL Marketo Measure]
 
-Questa lezione fornisce una panoramica di [!DNL Marketo Measure] origini dati che includono [!DNL Marketo Measure] JavaScript, integrazioni API, parametri UTM, dati CRM e dati immessi manualmente.
+In questa lezione viene fornita una panoramica delle origini dati [!DNL Marketo Measure] che includono [!DNL Marketo Measure] JavaScript, integrazioni API, parametri UTM, dati CRM e dati immessi manualmente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347234/?learn=on){transcript=true}

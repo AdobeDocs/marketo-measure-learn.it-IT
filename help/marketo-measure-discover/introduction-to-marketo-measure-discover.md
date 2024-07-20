@@ -1,5 +1,5 @@
 ---
-title: Introduzione a [!DNL Marketo Measure] Scoprire
+title: Introduzione a [!DNL Marketo Measure] Scopri
 description: Guarda una panoramica di alto livello di Discover e delle sue varie bacheche. In questa lezione, scopri alcuni casi d’uso comuni per la generazione di rapporti per diversi dashboard e sezioni di Discover.
 jira: KT-11230
 thumbnail: 347206.jpeg
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Introduzione a [!DNL Marketo Measure] [!UICONTROL Discover]
 
-Panoramica di alto livello su [!UICONTROL Discover] e le sue varie schede. In questa lezione, scopri alcuni casi d’uso comuni per la generazione di rapporti per diversi dashboard e sezioni di Discover.
+Guarda una panoramica di alto livello di [!UICONTROL Discover] e delle sue varie bacheche. In questa lezione, scopri alcuni casi d’uso comuni per la generazione di rapporti per diversi dashboard e sezioni di Discover.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347206/?learn=on){transcript=true}

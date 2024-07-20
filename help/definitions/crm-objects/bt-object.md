@@ -1,6 +1,6 @@
 ---
 title: Oggetto punto di contatto Marketo Measure
-description: Informazioni su [!DNL Marketo Measure] Punto di contatto.
+description: Scopri un punto di contatto  [!DNL Marketo Measure] .
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Oggetto punto di contatto Marketo Measure
 
-Informazioni su [!DNL Marketo Measure] Punto di contatto.
+Informazioni su un punto di contatto [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347219/?learn=on){transcript=true}

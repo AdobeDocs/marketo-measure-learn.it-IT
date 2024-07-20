@@ -1,6 +1,6 @@
 ---
 title: Oggetto Account
-description: Scopri la relazione tra [!DNL Marketo Measure] e l’oggetto account.
+description: Scopri la relazione tra  [!DNL Marketo Measure]  e l'oggetto account.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Oggetto Account
 
-Scopri la relazione tra [!DNL Marketo Measure] e l’oggetto account.
+Informazioni sulla relazione tra [!DNL Marketo Measure] e l&#39;oggetto account.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347222/?learn=on){transcript=true}

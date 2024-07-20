@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Touchpoints per Account] rapporto
+# Report [!UICONTROL Touchpoints per Account]
 
 Questo tutorial illustra come creare un rapporto di punti di contatto su un account.
 

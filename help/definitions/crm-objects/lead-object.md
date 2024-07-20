@@ -1,6 +1,6 @@
 ---
 title: Oggetto Lead
-description: Osserva un raggruppamento della relazione tra l'oggetto lead e [!DNL Marketo Measure] Oggetto punto di contatto.
+description: Osserva un raggruppamento della relazione tra l'oggetto lead e l'oggetto punto di contatto  [!DNL Marketo Measure] .
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Oggetto Lead
 
-Osserva un raggruppamento della relazione tra l&#39;oggetto lead e [!DNL Marketo Measure] Oggetto punto di contatto.
+Osservare un raggruppamento della relazione tra l&#39;oggetto lead e l&#39;oggetto punto di contatto [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347228/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
 title: Componenti punto di contatto
-description: Ottieni un raggruppamento dei vari componenti dei punti di contatto e come vengono definiti. Questo esempio interrompe i componenti sia dei BT che dei BAT.
+description: Ottieni un raggruppamento dei vari componenti dei punti di contatto e come vengono definiti. Questo esempio rompe le componenti sia dell’BT che dell’BAT.
 doc-type: Feature Video
 last-substantial-update: 2023-01-06T00:00:00Z
 jira: KT-11324
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Componenti punto di contatto
 
-Ottieni un raggruppamento dei vari componenti dei punti di contatto e come vengono definiti. Questo esempio interrompe i componenti sia dei BT che dei BAT.
+Ottieni un raggruppamento dei vari componenti dei punti di contatto e come vengono definiti. Questo esempio rompe le componenti sia dell’BT che dell’BAT.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347213/?learn=on){transcript=true}

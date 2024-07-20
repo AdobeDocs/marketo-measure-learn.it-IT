@@ -1,6 +1,6 @@
 ---
-title: Perché [!DNL Marketo Measure] per OCM e VP
-description: Questa lezione riassume [!DNL Marketo Measure]caratteristiche chiave e valore per le OCM e altri senior marketing leader.
+title: Perché [!DNL Marketo Measure] per CMO e VP
+description: In questa lezione vengono riepilogate le funzionalità chiave e il valore di  [!DNL Marketo Measure] per le OCM e altri responsabili marketing senior.
 role: Leader
 level: Beginner
 doc-type: Feature Video
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Perché [!DNL Marketo Measure] per OCM e VP
+# Perché [!DNL Marketo Measure] per CMO e VP
 
-Questa lezione riassume [!DNL Marketo Measure]caratteristiche chiave e valore per le OCM e altri senior marketing leader.
+In questa lezione vengono riepilogate le funzionalità chiave e il valore di [!DNL Marketo Measure] per le organizzazioni comuni di gestione dei contenuti e altri senior marketing leader.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347173/?learn=on){transcript=true}

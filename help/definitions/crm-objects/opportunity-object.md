@@ -1,6 +1,6 @@
 ---
 title: Oggetto opportunità
-description: Guarda un raggruppamento della relazione tra [!DNL Marketo Measure] e l'oggetto Opportunity.
+description: Osserva un raggruppamento della relazione tra [!DNL Marketo Measure]  e l'oggetto Opportunity.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Oggetto opportunità
 
-Guarda un raggruppamento della relazione tra [!DNL Marketo Measure] e l&#39;oggetto Opportunity.
+Osservare un raggruppamento della relazione tra [!DNL Marketo Measure] e l&#39;oggetto Opportunity.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347223/?learn=on){transcript=true}

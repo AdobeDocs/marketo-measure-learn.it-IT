@@ -1,6 +1,6 @@
 ---
 title: Creazione di canali e sottocanali
-description: Questa lezione illustra come creare e gestire gerarchie di canali e sottocanali e nomi in [!DNL Marketo Measure].
+description: In questa lezione verrà illustrato come creare e gestire gerarchie e nomi di canali e sottocanali in [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Creazione di canali e sottocanali
 
-Questa lezione illustra come creare e gestire gerarchie di canali e sottocanali e nomi in [!DNL Marketo Measure].
+In questa lezione verrà illustrato come creare e gestire gerarchie e nomi di canali e sottocanali in [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347244/?learn=on){transcript=true}

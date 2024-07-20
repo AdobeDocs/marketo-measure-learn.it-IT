@@ -1,6 +1,6 @@
 ---
-title: Il [!DNL Marketo Measure] Dashboard ROI
-description: Questa lezione fornisce una panoramica delle dashboard configurabili disponibili in [!DNL Marketo Measure].
+title: I  [!DNL Marketo Measure] Cruscotti ROI
+description: Questa lezione fornisce una panoramica delle dashboard configurabili disponibili in  [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# Il [!DNL Marketo Measure] Dashboard ROI
+# I dashboard del ROI di [!DNL Marketo Measure]
 
 Questa lezione fornisce una panoramica delle dashboard configurabili disponibili in [!DNL Marketo Measure].
 

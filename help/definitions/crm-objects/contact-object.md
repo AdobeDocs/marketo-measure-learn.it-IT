@@ -1,6 +1,6 @@
 ---
 title: Oggetto contatto
-description: Osserva un raggruppamento della relazione tra l'oggetto contatto e [!DNL Marketo Measure] Oggetto punto di contatto e [!DNL Marketo Measure] Oggetto punto di contatto di attribuzione.
+description: Osserva un raggruppamento della relazione tra l'oggetto contatto e l'oggetto punto di contatto  [!DNL Marketo Measure] e l'oggetto punto di contatto  [!DNL Marketo Measure] Attribuzione.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Oggetto contatto
 
-Questo video suddivide la relazione tra l’oggetto contatto e [!DNL Marketo Measure] Oggetto punto di contatto e [!DNL Marketo Measure] Oggetto punto di contatto di attribuzione.
+Questo video suddivide la relazione tra l&#39;oggetto contatto e l&#39;oggetto punto di contatto [!DNL Marketo Measure] e l&#39;oggetto punto di contatto di attribuzione [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347231/?learn=on){transcript=true}
