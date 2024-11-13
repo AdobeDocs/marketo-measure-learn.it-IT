@@ -3,10 +3,10 @@ user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
 user-guide-description: Scopri come ottenere il massimo da  [!DNL Adobe Marketo Measure] (in precedenza, [!DNL Bizible]). Guarda i tutorial su installazione, onboarding, nozioni di base e definizioni.
 auto-video-transcripts: true
-source-git-commit: 36abe0beb0b228bf90cf22fbb0ae14c7a6277a21
+source-git-commit: 22c78a311d3a9509fb85f6b203c2154c6124c259
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 4%
+source-wordcount: '350'
+ht-degree: 6%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 4%
 # Tutorial di [!DNL Marketo Measure] {#tutorials}
 
 + [Tutorial su [!DNL Marketo Measure]](overview.md)
++ [Panoramica di Marketo Measure](/help/marketo-measure-overview.md)
 + Installazione di Marketo Measure {#install}
    + [Installazione di Marketo Measure](/help/installing/install-production.md)
    + [Modificare i set di autorizzazioni](/help/installing/modify-permission-sets-production.md)
@@ -27,7 +28,7 @@ ht-degree: 4%
       + [Impostazioni per lead, contatti e opportunità](/help/onboarding/fundamentals/leads-contacts-opps-settings.md)
       + [Configurazione canale online](/help/onboarding/fundamentals/online-channel-setup.md)
       + [Panoramica della connessione degli annunci](/help/onboarding/fundamentals/ads-connection-overview.md)
-      + [Panoramica sull&#39;installazione di SFDC](/help/onboarding/fundamentals/sfdc-installation-overview.md)
+      + [Panoramica dell’installazione di SFDC](/help/onboarding/fundamentals/sfdc-installation-overview.md)
       + [Configurazione canale offline](/help/onboarding/fundamentals/offline-channel-setup.md)
       + [Connessione con il Marketo Engage](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
       + [Punti di contatto attività](/help/onboarding/fundamentals/activity-touchpoints.md)
