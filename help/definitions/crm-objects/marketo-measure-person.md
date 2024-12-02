@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Marketo Measure] persona"
+title: '[!DNL Marketo Measure] persona'
 description: Scopri l'oggetto  [!DNL Marketo Measure] Person e come crea una ricerca tra gli oggetti Lead e Contact.
 role: User
 level: Beginner
@@ -11,7 +11,7 @@ exl-id: 1afac56c-7f88-4331-aab9-c4b8df5c2332
 feature: CRM Objects
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '36'
 ht-degree: 0%
 
 ---
