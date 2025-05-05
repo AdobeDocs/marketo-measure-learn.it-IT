@@ -26,5 +26,5 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 
 ## Experience League di eventi live
 
-* **[Nuovi dashboard di individuazione di Marketo Measure](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
+* **[Nuovi dashboard di individuazione di Marketo Measure](https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
   *Scopri i nuovi dashboard di individuazione completamente rinnovati.*
