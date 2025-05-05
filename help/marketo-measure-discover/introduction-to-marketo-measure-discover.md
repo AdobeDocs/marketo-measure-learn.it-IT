@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Guarda una panoramica di alto livello di [!UICONTROL Discover] e delle sue varie bacheche. In questa lezione, scopri alcuni casi d’uso comuni per la generazione di rapporti per diversi dashboard e sezioni di Discover.
 
->[!VIDEO](https://video.tv.adobe.com/v/347206/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422343/?learn=on&captions=ita){transcript=true}

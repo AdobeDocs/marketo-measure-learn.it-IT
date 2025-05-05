@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Questo rapporto si concentra sulla parte superiore-media del funnel di marketing. Una volta creato il rapporto, potrai vedere quali canali generano il maggior numero di opportunità, in modo da poter quindi investire in tali canali di marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424433/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443748/?learn=on&captions=ita)

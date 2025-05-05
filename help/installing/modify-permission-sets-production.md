@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come modificare i set di autorizzazioni in [!DNL Marketo Measure] (istanza di produzione).
 
->[!VIDEO](https://video.tv.adobe.com/v/347189/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421332/?learn=on&captions=ita){transcript=true}

@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Questo tutorial illustra come creare un rapporto di punti di contatto su un account.
 
->[!VIDEO](https://video.tv.adobe.com/v/347226/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422315/?learn=on&captions=ita){transcript=true}

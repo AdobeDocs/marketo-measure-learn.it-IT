@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Osservare un raggruppamento della relazione tra [!DNL Marketo Measure] e l&#39;oggetto Opportunity.
 
->[!VIDEO](https://video.tv.adobe.com/v/347223/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421955/?learn=on&captions=ita){transcript=true}

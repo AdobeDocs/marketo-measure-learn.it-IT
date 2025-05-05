@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Questa lezione descrive quali sono i punti di contatto in [!DNL Marketo Measure], come vengono creati e come vengono utilizzati per l&#39;attribuzione. Sono stati introdotti [!DNL Marketo Measure] oggetti dati, inclusi [!DNL Marketo Measure] punti di contatto (BT) e [!DNL Marketo Measure] punti di contatto di attribuzione (BAT).
 
->[!VIDEO](https://video.tv.adobe.com/v/347246/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422210/?learn=on&captions=ita){transcript=true}

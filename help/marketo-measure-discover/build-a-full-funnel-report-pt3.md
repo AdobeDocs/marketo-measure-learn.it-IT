@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In questo rapporto diamo un’occhiata al rapporto funnel completo. Questo rapporto Discover tiene traccia dall’inizio alla fine di quali canali sono stati coinvolti e quindi attribuisce opportunità e/o ricavi a tali canali.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424432/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443759/?learn=on&captions=ita){transcript=true}

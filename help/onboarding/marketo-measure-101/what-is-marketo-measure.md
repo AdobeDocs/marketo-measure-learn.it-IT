@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Questa lezione fornisce una breve introduzione a ciò che Marketo Measure fa e perché.
 
->[!VIDEO](https://video.tv.adobe.com/v/347236/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421961/?learn=on&captions=ita){transcript=true}

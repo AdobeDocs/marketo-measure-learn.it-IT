@@ -21,4 +21,4 @@ ht-degree: 89%
 
 Questo tutorial fornisce una definizione di attribuzione, un confronto tra metodi di attribuzione single-touch e multi-touch e un confronto dell’attribuzione tra aziende B2C e B2B.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413090/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421968/?learn=on&captions=ita){transcript=true}

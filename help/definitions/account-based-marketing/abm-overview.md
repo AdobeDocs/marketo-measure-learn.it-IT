@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Questo tutorial offre una breve panoramica di ABM, inclusa una definizione di ABM e di ciò che costituisce il livello di coinvolgimento predittivo. Scopri come pensare al punteggio di coinvolgimento predittivo.
 
->[!VIDEO](https://video.tv.adobe.com/v/347217/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422326/?learn=on&captions=ita){transcript=true}

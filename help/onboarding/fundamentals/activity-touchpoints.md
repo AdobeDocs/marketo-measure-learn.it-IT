@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Revisione della configurazione dell&#39;attività in Marketo Measure. Questo rivede le attività di Marketo Engage e CRM.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424420/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453221/?learn=on&captions=ita){transcript=true}

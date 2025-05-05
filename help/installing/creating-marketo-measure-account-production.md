@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come creare l’account [!DNL Marketo Measure] e connettersi alle piattaforme di annunci (istanza di produzione).
 
->[!VIDEO](https://video.tv.adobe.com/v/347196/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421326/?learn=on&captions=ita){transcript=true}

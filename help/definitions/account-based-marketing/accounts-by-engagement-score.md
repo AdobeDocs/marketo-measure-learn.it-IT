@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Panoramica di alto livello di [!UICONTROL Account by Engagement Score].  Questa esercitazione illustra quali metriche entrano in questo punteggio e il rapporto ad esso associato.
 
->[!VIDEO](https://video.tv.adobe.com/v/347248/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432124/?learn=on&captions=ita){transcript=true}

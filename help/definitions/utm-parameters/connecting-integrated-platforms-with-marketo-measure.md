@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Scopri come collegare una piattaforma di annunci al tuo account [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347211/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422331/?learn=on&captions=ita){transcript=true}

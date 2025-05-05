@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Questa lezione fornisce una panoramica delle dashboard configurabili disponibili in [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347243/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421992/?learn=on&captions=ita){transcript=true}

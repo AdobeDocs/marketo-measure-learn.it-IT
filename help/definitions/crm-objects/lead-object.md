@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Osservare un raggruppamento della relazione tra l&#39;oggetto lead e l&#39;oggetto punto di contatto [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347228/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422218/?learn=on&captions=ita){transcript=true}

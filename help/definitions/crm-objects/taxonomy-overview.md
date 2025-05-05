@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Ottieni una panoramica del modo in cui [!DNL Marketo Measure] raccoglie ed elabora i dati utilizzando vari input per fornire i dati di attribuzione.
 
->[!VIDEO](https://video.tv.adobe.com/v/347177/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421344/?learn=on&captions=ita){transcript=true}

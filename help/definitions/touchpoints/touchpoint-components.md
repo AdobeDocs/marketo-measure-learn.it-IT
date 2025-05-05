@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Ottieni un raggruppamento dei vari componenti dei punti di contatto e come vengono definiti. Questo esempio rompe le componenti sia dell’BT che dell’BAT.
 
->[!VIDEO](https://video.tv.adobe.com/v/347213/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437620/?learn=on&captions=ita){transcript=true}

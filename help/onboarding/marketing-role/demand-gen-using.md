@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Questa lezione fornisce una rapida dimostrazione di come i team di Demand Gen e Paid Media potrebbero utilizzare [!DNL Marketo Measure] nel loro ruolo.
 
->[!VIDEO](https://video.tv.adobe.com/v/347171/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422207/?learn=on&captions=ita){transcript=true}

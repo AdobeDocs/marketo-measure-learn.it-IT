@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Questo video fornisce una spiegazione dettagliata del modello a percorso completo.
 
->[!VIDEO](https://video.tv.adobe.com/v/347232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421350/?learn=on&captions=ita){transcript=true}

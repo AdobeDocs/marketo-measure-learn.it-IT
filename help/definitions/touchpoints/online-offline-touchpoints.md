@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri la differenza tra punti di contatto online e punti di contatto offline e come vengono creati.
 
->[!VIDEO](https://video.tv.adobe.com/v/347212/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421801/?learn=on&captions=ita){transcript=true}

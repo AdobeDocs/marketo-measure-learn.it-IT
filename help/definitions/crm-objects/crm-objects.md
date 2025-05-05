@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Osserva un raggruppamento della relazione tra gli oggetti CRM standard e [!DNL Marketo Measure] oggetti e campi personalizzati.
 
->[!VIDEO](https://video.tv.adobe.com/v/347218/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422222/?learn=on&captions=ita){transcript=true}

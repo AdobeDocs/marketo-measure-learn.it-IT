@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Panoramica dei modelli di attribuzione predefiniti in [!DNL Marketo Measure]. Scopri la differenza tra i modelli single-touch e i modelli multi-touch.
 
->[!VIDEO](https://video.tv.adobe.com/v/347221/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421789/?learn=on&captions=ita){transcript=true}

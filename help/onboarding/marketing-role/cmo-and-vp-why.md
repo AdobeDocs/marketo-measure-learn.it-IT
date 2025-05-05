@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In questa lezione vengono riepilogate le funzionalità chiave e il valore di [!DNL Marketo Measure] per le organizzazioni comuni di gestione dei contenuti e altri senior marketing leader.
 
->[!VIDEO](https://video.tv.adobe.com/v/347173/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422202/?learn=on&captions=ita){transcript=true}

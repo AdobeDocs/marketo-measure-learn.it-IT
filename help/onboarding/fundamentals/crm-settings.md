@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Una revisione dell’impostazione CRM in Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424429/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451746/?learn=on&captions=ita){transcript=true}

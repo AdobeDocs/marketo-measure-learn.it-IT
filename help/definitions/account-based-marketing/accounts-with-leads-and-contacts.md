@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Questa esercitazione illustra il report [!UICONTROL Account and Leads Contacts] insieme alle informazioni per entrambi e il modo in cui connette tali oggetti.
 
->[!VIDEO](https://video.tv.adobe.com/v/347220/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422323/?learn=on&captions=ita){transcript=true}

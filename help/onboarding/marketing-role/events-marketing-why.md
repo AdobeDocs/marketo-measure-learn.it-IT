@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In questa lezione vengono riepilogate le funzionalità chiave e il valore di [!DNL Marketo Measure] per i team Marketing degli eventi.
 
->[!VIDEO](https://video.tv.adobe.com/v/347178/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422351/?learn=on&captions=ita){transcript=true}

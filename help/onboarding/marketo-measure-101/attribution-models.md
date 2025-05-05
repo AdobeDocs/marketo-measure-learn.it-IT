@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Questa lezione definisce i modelli di attribuzione, spiega i diversi modelli inclusi in [!DNL Marketo Measure] e quando utilizzarli.  Sono descritti i modelli standard basati su regole, i modelli personalizzati e i consigli AI/ML.
 
->[!VIDEO](https://video.tv.adobe.com/v/347240/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422199/?learn=on&captions=ita){transcript=true}

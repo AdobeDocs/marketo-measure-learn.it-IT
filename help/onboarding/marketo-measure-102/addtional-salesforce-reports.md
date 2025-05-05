@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Questa lezione tratta i rapporti di attribuzione personalizzati nel sistema CRM di Salesforce.
 
->[!VIDEO](https://video.tv.adobe.com/v/347242/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421943/?learn=on&captions=ita){transcript=true}

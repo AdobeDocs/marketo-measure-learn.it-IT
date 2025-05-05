@@ -21,4 +21,4 @@ ht-degree: 0%
 
 La dashboard Panoramica ricavi fornisce informazioni sui ricavi totali derivati dal CRM, gettando luce sul ruolo delle strategie di marketing. Offre una panoramica dell’influenza del marketing sui ricavi complessivi e contribuisce alla corretta chiusura delle offerte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425025/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446361/?learn=on&captions=ita){transcript=true}

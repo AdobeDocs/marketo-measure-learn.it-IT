@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri l’attribuzione e perché è importante.
 
->[!VIDEO](https://video.tv.adobe.com/v/347233/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421795/?learn=on&captions=ita){transcript=true}

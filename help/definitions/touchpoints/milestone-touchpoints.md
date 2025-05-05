@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri le principali attività cardine di [!DNL Marketo Measure] e come vengono create.
 
->[!VIDEO](https://video.tv.adobe.com/v/347215/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421807/?learn=on&captions=ita){transcript=true}

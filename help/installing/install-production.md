@@ -20,4 +20,4 @@ ht-degree: 31%
 
 Scopri come installare un’istanza di produzione di [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347185/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421819/?learn=on&captions=ita){transcript=true}

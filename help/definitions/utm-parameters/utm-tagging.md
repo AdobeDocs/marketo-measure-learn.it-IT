@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Guarda un&#39;esercitazione su ciò che è un UTM e sul suo funzionamento con [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347204/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422311/?learn=on&captions=ita){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Scopri i canali online, la creazione di canali e il foglio di lavoro del canale online.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424422/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454159/?learn=on&captions=ita){transcript=true}

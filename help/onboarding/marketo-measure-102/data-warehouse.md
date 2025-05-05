@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Questa lezione descrive la Data Warehouse di [!DNL Marketo Measure] e fornisce alcuni esempi che illustrano i dati disponibili e le attività di reporting che è possibile eseguire utilizzando lo strumento BI scelto.
 
->[!VIDEO](https://video.tv.adobe.com/v/347235/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421937/?learn=on&captions=ita){transcript=true}

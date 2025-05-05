@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Questa lezione illustra come visualizzare e condividere report e dashboard.
 
->[!VIDEO](https://video.tv.adobe.com/v/347184/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431539/?learn=on&captions=ita){transcript=true}

@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Scopri come funziona l&#39;assegnazione tag di [!DNL Marketo Measure] e come utilizzare una piattaforma di assegnazione tag integrata.
 
->[!VIDEO](https://video.tv.adobe.com/v/347200/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422335/?learn=on&captions=ita){transcript=true}

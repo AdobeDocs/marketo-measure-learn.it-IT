@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Questa lezione descrive la mappatura dei canali offline su [!DNL Marketo Measure] con l&#39;oggetto Salesforce Campaign e il campo Tipi di campagna.
 
->[!VIDEO](https://video.tv.adobe.com/v/347249/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422240/?learn=on&captions=ita){transcript=true}

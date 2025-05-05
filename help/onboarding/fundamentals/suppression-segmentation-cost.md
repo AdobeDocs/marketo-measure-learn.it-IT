@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Panoramica della soppressione, della segmentazione e dei costi di Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424418/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453232/?learn=on&captions=ita){transcript=true}

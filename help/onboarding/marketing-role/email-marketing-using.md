@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Questa lezione fornisce una breve dimostrazione di come gli esperti di marketing via e-mail potrebbero utilizzare [!DNL Marketo Measure] nel loro ruolo.
 
->[!VIDEO](https://video.tv.adobe.com/v/347170/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421974/?learn=on&captions=ita){transcript=true}

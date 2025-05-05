@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Questo video offre una spiegazione dettagliata del modello a forma di W.
 
->[!VIDEO](https://video.tv.adobe.com/v/347209/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421356/?learn=on&captions=ita){transcript=true}

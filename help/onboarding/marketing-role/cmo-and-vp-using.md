@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Questa lezione fornisce una rapida dimostrazione di come le OCM e gli altri responsabili marketing senior potrebbero utilizzare [!DNL Marketo Measure] nel loro ruolo.
 
->[!VIDEO](https://video.tv.adobe.com/v/347190/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422253/?learn=on&captions=ita){transcript=true}

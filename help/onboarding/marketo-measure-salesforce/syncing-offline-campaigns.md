@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Questa lezione illustra come sincronizzare le campagne CRM di Salesforce con [!DNL Marketo Measure], singolarmente o in blocco.
 
->[!VIDEO](https://video.tv.adobe.com/v/347250/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421386/?learn=on&captions=ita){transcript=true}
