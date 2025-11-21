@@ -19,8 +19,8 @@ ht-degree: 6%
    + [Installazione di Marketo Measure](/help/installing/install-production.md)
    + [Modificare i set di autorizzazioni](/help/installing/modify-permission-sets-production.md)
    + [Condividere e nascondere report e dashboard](/help/installing/sharing-reports-production.md)
-   + [Crea l&#39;account  [!DNL Marketo Measure] &#x200B;](/help/installing/creating-marketo-measure-account-production.md)
-+ Onboarding di {#onboarding}
+   + [Crea l&#39;account  [!DNL Marketo Measure] ](/help/installing/creating-marketo-measure-account-production.md)
++ Formazione iniziale {#onboarding}
    + Best practice {#best-practices}
       + [Rivedi Impostazioni Rapporti (Pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
       + [Rivedere le impostazioni di canale e integrazione (Pt.2)](/help/onboarding/fundamentals/channel-integration-settings.md)
@@ -30,7 +30,7 @@ ht-degree: 6%
       + [Panoramica della connessione degli annunci](/help/onboarding/fundamentals/ads-connection-overview.md)
       + [Panoramica dell’installazione di SFDC](/help/onboarding/fundamentals/sfdc-installation-overview.md)
       + [Configurazione canale offline](/help/onboarding/fundamentals/offline-channel-setup.md)
-      + [Connessione con il Marketo Engage](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
+      + [Connessione con Marketo Engage](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
       + [Punti di contatto attività](/help/onboarding/fundamentals/activity-touchpoints.md)
       + [Eliminazione, segmentazione e costo](/help/onboarding/fundamentals/suppression-segmentation-cost.md)
    + Ruolo di marketing {#marketing-role}
@@ -54,7 +54,7 @@ ht-degree: 6%
       + [I  [!DNL Marketo Measure] dashboard ROI](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Rapporti Stock Salesforce](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [Rapporti aggiuntivi su Salesforce](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
-      + [Data Warehouse &#x200B;](/help/onboarding/marketo-measure-102/data-warehouse.md)
+      + [Data warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
    + [!DNL Marketo Measure] e Salesforce{#marketo-measure-salesforce}
       + [Rapporto Lead per ID](/help/onboarding/marketo-measure-salesforce/leads-by-id-report.md)
       + [Creare canali e sottocanali](/help/onboarding/marketo-measure-salesforce/creating-channels-subchannels.md)
@@ -65,14 +65,14 @@ ht-degree: 6%
    + Nozioni di base{#fundamentals}
       + [Soppressione dei punti di contatto](/help/onboarding/marketo-measure-salesforce/touchpoint-suppression.md)
       + [Attribuzione attività](/help/onboarding/fundamentals/activities-attribution.md)
-+ [!DNL Marketo Measure] Individua {#marketo-measure-discover}
++ [!DNL Marketo Measure] individuazione {#marketo-measure-discover}
    + [Introduzione a [!DNL Marketo Measure] Scopri](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
    + [Scopri la dashboard della panoramica](/help/marketo-measure-discover/2023-discover-overview-dashboard.md)
    + [Scoprire i ricavi attribuiti](/help/marketo-measure-discover/2023-discover-attributed-revenue.md)
    + [Scopri la dashboard del ROI](/help/marketo-measure-discover/2023-discover-roi-dashboard.md)
    + [Determinare il canale in esecuzione (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [Determinare il canale in esecuzione (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
-   + [Individuare Il Reporting Funnel (Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
+   + [Individuare Il Reporting Di Funnel (Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
 + Definizioni {#definitions}
    + Punti di contatto{#touchpoints}
       + [Cos’è un punto di contatto?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
@@ -88,16 +88,16 @@ ht-degree: 6%
       + [Modello a forma di W](/help/definitions/attribution/w-shaped-model.md)
       + [Modello percorso completo](/help/definitions/attribution/full-path-model.md)
    + Oggetti CRM {#crm-objects}
-      + [Panoramica della tassonomia  [!DNL Marketo Measure] &#x200B;](/help/definitions/crm-objects/taxonomy-overview.md)
+      + [Panoramica della tassonomia  [!DNL Marketo Measure] ](/help/definitions/crm-objects/taxonomy-overview.md)
       + [Oggetti CRM](/help/definitions/crm-objects/crm-objects.md)
       + [Oggetto Lead](/help/definitions/crm-objects/lead-object.md)
       + [Oggetto contatto](/help/definitions/crm-objects/contact-object.md)
       + [Oggetto opportunità](/help/definitions/crm-objects/opportunity-object.md)
-      + [Oggetto BT](/help/definitions/crm-objects/bt-object.md)
-      + [Oggetto BAT](/help/definitions/crm-objects/bat-object.md)
+      + [oggetto BT](/help/definitions/crm-objects/bt-object.md)
+      + [oggetto BAT](/help/definitions/crm-objects/bat-object.md)
       + [Persona Marketo Measure](/help/definitions/crm-objects/marketo-measure-person.md)
    + Parametri UTM {#utm-parameters}
-      + [Come funziona l&#39;assegnazione tag  [!DNL Marketo Measure] &#x200B;](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
+      + [Come funziona l&#39;assegnazione tag  [!DNL Marketo Measure] ](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
       + [Connessione di piattaforme integrate con  [!DNL Marketo Measure]](/help/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [Anatomia di un parametro UTM](/help/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
       + [Best practice UTM](/help/definitions/utm-parameters/utm-best-practices.md)
@@ -108,15 +108,15 @@ ht-degree: 6%
       + [[!UICONTROL Accounts by Engagement Score]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
       + [Report [!UICONTROL Accounts with Leads and Contacts]](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
       + [Report [!UICONTROL Touchpoints per Account]](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
-   + Fase boomerang {#boomerang-stage}
+   + Boomerang Stage {#boomerang-stage}
       + [Introduzione alle fasi di boomerang](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [Impostare le fasi di boomerang](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
 + Marketo Measure Ultimate {#marketo-measure-ultimate}
    + [Panoramica di Marketo Measure Ultimate](/help/marketo-measure-ultimate/overview.md)
    + [Panoramica di Attribution AI](/help/marketo-measure-ultimate/attribution-ai-overview.md)
-+ Evangelista parla {#evangelist}
++ L&#39;evangelista {#evangelist}
    + [Attribuzione e metriche di marketing](/help/evangelist-talks/attribution-and-metrics.md)
    + [Scadenza dell’attribuzione marketing](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [Silo di dati e attribuzione marketing](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
-+ Registrazioni di eventi Experience League Live{#experience-league-live-recordings}
-   + [Nuovi dashboard di individuazione di Marketo Measure](https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
++ Registrazioni Experience League Live{#experience-league-live-recordings}
+   + [Nuovi dashboard di individuazione di Marketo Measure](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)

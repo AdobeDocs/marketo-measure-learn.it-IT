@@ -12,8 +12,8 @@ exl-id: fc35f6b0-9491-4438-a9a8-8026472d13b7
 feature: Attribution
 source-git-commit: 9cdab15d9c976c6160ca367dedc458fb388a2c83
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 89%
+source-wordcount: '72'
+ht-degree: 91%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 89%
 
 Questo tutorial fornisce una definizione di attribuzione, un confronto tra metodi di attribuzione single-touch e multi-touch e un confronto dell’attribuzione tra aziende B2C e B2B.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421968/?learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413090/?learn=on){transcript=true}
