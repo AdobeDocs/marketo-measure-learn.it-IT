@@ -19,7 +19,7 @@ ht-degree: 7%
    + [Installazione di Marketo Measure](/help/marketo-measure-main/installing/install-production.md)
    + [Modificare i set di autorizzazioni](/help/marketo-measure-main/installing/modify-permission-sets-production.md)
    + [Condividere e nascondere report e dashboard](/help/marketo-measure-main/installing/sharing-reports-production.md)
-   + [Crea l&#39;account  [!DNL Marketo Measure] ](/help/marketo-measure-main/installing/creating-marketo-measure-account-production.md)
+   + [Crea l&#39;account  [!DNL Marketo Measure] &#x200B;](/help/marketo-measure-main/installing/creating-marketo-measure-account-production.md)
 + Formazione iniziale {#onboarding}
    + Best practice {#best-practices}
       + [Rivedi Impostazioni Rapporti (Pt.1)](/help/marketo-measure-main/onboarding/fundamentals/review-reporting-setting-pt1.md)
@@ -88,7 +88,7 @@ ht-degree: 7%
       + [Modello a forma di W](/help/marketo-measure-main/definitions/attribution/w-shaped-model.md)
       + [Modello percorso completo](/help/marketo-measure-main/definitions/attribution/full-path-model.md)
    + Oggetti CRM {#crm-objects}
-      + [Panoramica della tassonomia  [!DNL Marketo Measure] ](/help/marketo-measure-main/definitions/crm-objects/taxonomy-overview.md)
+      + [Panoramica della tassonomia  [!DNL Marketo Measure] &#x200B;](/help/marketo-measure-main/definitions/crm-objects/taxonomy-overview.md)
       + [Oggetti CRM](/help/marketo-measure-main/definitions/crm-objects/crm-objects.md)
       + [Oggetto Lead](/help/marketo-measure-main/definitions/crm-objects/lead-object.md)
       + [Oggetto contatto](/help/marketo-measure-main/definitions/crm-objects/contact-object.md)
@@ -97,7 +97,7 @@ ht-degree: 7%
       + [oggetto BAT](/help/marketo-measure-main/definitions/crm-objects/bat-object.md)
       + [Persona Marketo Measure](/help/marketo-measure-main/definitions/crm-objects/marketo-measure-person.md)
    + Parametri UTM {#utm-parameters}
-      + [Come funziona l&#39;assegnazione tag  [!DNL Marketo Measure] ](/help/marketo-measure-main/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
+      + [Come funziona l&#39;assegnazione tag  [!DNL Marketo Measure] &#x200B;](/help/marketo-measure-main/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
       + [Connessione di piattaforme integrate con  [!DNL Marketo Measure]](/help/marketo-measure-main/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [Anatomia di un parametro UTM](/help/marketo-measure-main/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
       + [Best practice UTM](/help/marketo-measure-main/definitions/utm-parameters/utm-best-practices.md)
