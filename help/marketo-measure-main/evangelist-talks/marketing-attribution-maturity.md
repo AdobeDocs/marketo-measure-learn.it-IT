@@ -21,4 +21,4 @@ ht-degree: 30%
 
 Andy Schneider, Adobe Solutions Consultant (Marketo Measure) e Ian Michels, Adobe Marketo evangelist, illustrano le conversazioni e le esperienze di attribuzione marketing con i clienti. Questa conversazione illustra come i team MOP passano dall’assenza di rapporti di attribuzione al modo in cui le aziende Fortune 100 utilizzano Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426840/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456517/?captions=ita&learn=on)

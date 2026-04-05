@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Informazioni su [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoints].
 
->[!VIDEO](https://video.tv.adobe.com/v/347224/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422230/?captions=ita&learn=on){transcript=true}

@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Guarda una breve discussione su alcuni strumenti di generazione UTM.
 
->[!VIDEO](https://video.tv.adobe.com/v/347201/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422307/?captions=ita&learn=on){transcript=true}

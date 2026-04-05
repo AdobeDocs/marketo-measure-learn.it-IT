@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Questo video illustra una parte superiore del rapporto di funnel che a sua volta mostra se Marketo Measure sta monitorando, se stai generando lead e se la configurazione del canale è stata eseguita correttamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441788/?captions=ita&learn=on){transcript=true}

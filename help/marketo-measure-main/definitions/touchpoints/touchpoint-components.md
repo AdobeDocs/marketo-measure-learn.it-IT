@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Ottieni un raggruppamento dei vari componenti dei punti di contatto e come vengono definiti. Questo esempio interrompe i componenti sia dei BT che dei BAT.
 
->[!VIDEO](https://video.tv.adobe.com/v/347213/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437620/?captions=ita&learn=on){transcript=true}

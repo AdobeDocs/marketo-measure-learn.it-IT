@@ -20,4 +20,4 @@ ht-degree: 0%
 
 In questa lezione vengono illustrati i campi oggetto della campagna di Salesforce CRM utilizzati da [!DNL Marketo Measure] per mappare campagne e membri della campagna ai canali di marketing. È importante comprendere il comportamento di questi oggetti della campagna durante la gestione e la mappatura dei canali offline in [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347238/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422244/?captions=ita&learn=on){transcript=true}
