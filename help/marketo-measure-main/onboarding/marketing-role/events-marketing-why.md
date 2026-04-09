@@ -9,8 +9,7 @@ jira: KT-11674
 thumbnail: 347178.jpeg
 exl-id: 713014ed-257c-44f3-a406-bc40e953fe88
 feature: Fundamentals
-hidefromtoc: true
-source-git-commit: 557fe2c83a26425c5c849e6260a416215ce1c7fb
+source-git-commit: 0e23db8bde1e8178bb20e9b5b8aca1dce2299f35
 workflow-type: tm+mt
 source-wordcount: '30'
 ht-degree: 0%
@@ -21,4 +20,4 @@ ht-degree: 0%
 
 In questa lezione vengono riepilogate le funzionalità chiave e il valore di [!DNL Marketo Measure] per i team Marketing degli eventi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422351/?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/347178/?learn=on){transcript=true}
