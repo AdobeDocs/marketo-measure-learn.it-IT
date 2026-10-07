@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Panoramica delle impostazioni di reporting in Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424431/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453716/?captions=ita&learn=on){transcript=true}

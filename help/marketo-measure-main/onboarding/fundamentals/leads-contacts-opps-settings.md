@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Revisione di lead, contatti e opportunità delle impostazioni CRM.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424425/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453727/?captions=ita&learn=on){transcript=true}
