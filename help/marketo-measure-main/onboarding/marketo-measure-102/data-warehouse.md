@@ -1,23 +1,33 @@
 ---
 title: Data warehouse
-description: Questa lezione descrive [!DNL Marketo Measure] Data Warehouse e fornisce esempi che illustrano quali dati sono disponibili e quali rapporti è possibile utilizzare con lo strumento BI scelto.
+description: Questa lezione descrive [!DNL Marketo Measure] Data Warehouse e fornisce esempi che illustrano quali dati sono disponibili e quali rapporti è possibile eseguire utilizzando lo strumento BI scelto.
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-01-06T00:00:00Z
+last-substantial-update: 2023-01-06T00:00:00.000Z
 jira: KT-11686
 thumbnail: 347235.jpeg
 exl-id: 1cbecdd0-3858-420c-80c3-9f4d6b813beb
 feature: Data Warehouse
-source-git-commit: 557fe2c83a26425c5c849e6260a416215ce1c7fb
+product_v2:
+  - id: e6fc4016-a972-4f36-8c30-a6a5f82ad0c8
+    internal-label: Marketo Measure
+feature_v2:
+  - id: 09cd1bee-ffcc-509c-9a9a-ca8384eac8e8
+    internal-label: Data Warehouse
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 39c9852c2f3da60da121510eccbb64441a6a016c
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '52'
 ht-degree: 7%
-
 ---
-
 # Data warehouse
 
 Questa lezione descrive [!DNL Marketo Measure] Data Warehouse e fornisce esempi che illustrano quali dati sono disponibili e quali rapporti è possibile eseguire utilizzando lo strumento BI scelto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421937/?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/347235/?learn=on){transcript=true}
